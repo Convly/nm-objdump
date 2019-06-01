@@ -4,7 +4,7 @@
 ##### Other Information
 - 2rd year project
 - C
-- Part of the `Unix System Programming - Network` course at Epitech
+- Part of the `Unix System Programming - Memory` course at Epitech
 
 # nm-objdump
 Re implementation of unix nm and objdump commands
